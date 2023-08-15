@@ -11,7 +11,7 @@ body {
 
 p, .paragraph {
   font-weight: 400;
-  color: $text-color;
+  //color: $text-color;
   font-size: 15px;
   line-height: 1.8;
   font-family: $primary-font;
@@ -21,7 +21,7 @@ p, .paragraph {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  color: $text-color-dark;
+//  color: $text-color-dark;
   font-family: $secondary-font;
   line-height: 1.2;
 }

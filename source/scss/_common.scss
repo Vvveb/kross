@@ -1,5 +1,5 @@
 body {
-  background-color: $body-color;
+  //background-color: $body-color;
   overflow-x: hidden;
 }
 
@@ -191,12 +191,9 @@ a:hover {
 }
 
 .shadow {
-  box-shadow: 0px 18px 39.1px 6.9px rgba(224, 241, 255, 0.34) !important;
+  box-shadow: 0px 18px 39.1px 6.9px rgba(224, 241, 255, 0.34) ;
 }
 
-.bg-dark{
-  background-color: #222222 !important;
-}
 
 /* icon */
 .icon {

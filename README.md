@@ -2,13 +2,20 @@
 
 Kross is a creative, sleek and modern personal portfolio website template with a gorgeous appearance. It appears with an amazing, stunning graphics.
 
+## [Vvveb CMS](https://www.vvveb.com) theme.
+
+👉🏻 [Theme page](https://themes.vvveb.com/product/kross) 
+👉🏻 [Theme development documentation](http://dev.vvveb.com/theme-introduction)
+
+Use this template either as a standalone Bootstrap 5 template or as a Vvveb CMS theme.
+
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
+| [![](screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
 |:---:|:---:|:---:|
 | **Home**  | **About**  | **Portfolio** |
-| [![](screenshots/blog.png)](https://demo.themefisher.com/kross/blog.html) | [![](screenshots/blog-details.png)](https://demo.themefisher.com/kross/blog-single.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/kross/contact.html) |
+| [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/blog.png)](https://demo.themefisher.com/kross/blog.html) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/blog-details.png)](https://demo.themefisher.com/kross/blog-single.html) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/contact.png)](https://demo.themefisher.com/kross/contact.html) |
 | **Blog** | **Blog Details** | **Contact** |
 
 👉🏻[View Live Preview](https://demo.themefisher.com/kross/)
@@ -26,7 +33,7 @@ Kross is a creative, sleek and modern personal portfolio website template with a
 <!-- download -->
 ## Download And installation
 
-Download this template from [Github](https://github.com/themefisher/kross/archive/main.zip)
+Download this template from [Github](https://github.com/Vvveb/kross/archive/main.zip)
 
 <!-- installation -->
 ### Basic Usages
@@ -81,8 +88,8 @@ Now you get a `theme` folder that has all the changes you have made. you can use
 <!-- reporting issue -->
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Kross Template. Please Search [existing issues](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues).
+We use GitHub Issues as the official bug tracker for the Kross Template. Please Search [existing issues](https://github.com/Vvveb/kross/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/Vvveb/kross/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
@@ -94,9 +101,11 @@ If you have questions or need help integrating the product please [contact us](m
 
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/constra/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/Vvveb/kross/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+
+**Vvveb CMS integration** Changes released under the MIT license.
 
 <!-- resources -->
 ## Resources
