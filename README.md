@@ -12,7 +12,7 @@ Use this template either as a standalone Bootstrap 5 template or as a Vvveb CMS 
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
+| [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
 |:---:|:---:|:---:|
 | **Home**  | **About**  | **Portfolio** |
 | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/blog.png)](https://demo.themefisher.com/kross/blog.html) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/blog-details.png)](https://demo.themefisher.com/kross/blog-single.html) | [![](https://github.com/themefisher/kross-bootstrap/blob/main/screenshots/contact.png)](https://demo.themefisher.com/kross/contact.html) |
